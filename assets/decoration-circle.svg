@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+	<title>Новый проект</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #000000 } 
+		.t1 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "PlusJakartaSans-Regular", "Plus Jakarta Sans" } 
+	</style>
+	<path id="форма 1" class="s0" d="m300 600c-165.9 0-300-134.1-300-300 0-165.9 134.1-300 300-300 165.9 0 300 134.1 300 300 0 165.9-134.1 300-300 300z"/>
+	<text id="DISCOVER" style="transform: matrix(4.008,0,0,4.008,-1357.893,257.008)" >
+		<tspan x="351.2" y="18.2" class="t1">D</tspan><tspan  y="18.2" class="t1">I</tspan><tspan  y="18.2" class="t1">S</tspan><tspan  y="18.2" class="t1">C</tspan><tspan  y="18.2" class="t1">O</tspan><tspan  y="18.2" class="t1">V</tspan><tspan  y="18.2" class="t1">E</tspan><tspan  y="18.2" class="t1">R</tspan><tspan  y="18.2" class="t1">
+</tspan>
+	</text>
+</svg>
